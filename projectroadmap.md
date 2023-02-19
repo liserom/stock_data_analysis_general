@@ -4,4 +4,5 @@
 2. Extract the data into an excel document.
 3. Data Visualization and Micro-TimeFrames.
 4. Perform data analysis.
-5. Create a trading algorithm.
+5. Blueprint Model (Visio)
+6. Create a trading algorithm.
